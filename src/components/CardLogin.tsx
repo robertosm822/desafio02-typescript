@@ -2,7 +2,6 @@
 import { 
     Heading, 
     Stack, 
-    Text, 
     Box, 
     StackDivider 
 } from '@chakra-ui/react'
